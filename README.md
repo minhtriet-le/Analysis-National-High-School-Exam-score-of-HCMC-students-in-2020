@@ -33,7 +33,7 @@ We have to manually find the pattern of student ID that is in range of 02000001 
 
 This is the example of the raw data we get from 1 student ID:
 
-![raw_data](img\raw_data_for_one_record_example.png)
+![raw_data](img/raw_data_for_one_record_example.png)
 
 You can get the result file in our [Google Drive](https://drive.google.com/file/d/1DJFrIP4VwuXNyjLgYpHztnqzw04BJcPb/view?usp=sharing) (GitHub has a strict file limit of 100MB, so we have to use the cloud service of a third party for storage)
 
@@ -172,7 +172,7 @@ The file *[unicode.txt](unicode.txt)* used for decoding the Vietnamese character
 
 This is the example of the clean data we collected in the file *[clean_data.csv](clean_data.csv)*:
 
-![clean_data](img\clean_data_example.png)
+![clean_data](img/clean_data_example.png)
 **The score of subjects not participated is filled by -1.*
 
 ## 3. Analysis and visualization
