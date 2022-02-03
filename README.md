@@ -260,7 +260,7 @@ The result is showed below:
 
 We can conclude that students in HCMC prefer natural science because they participate in natural science exam more than social science one (56% > 34%).
 
-The educational managers do not need to run many marketing campaigns because the real situation is supporting the government's orientation for the economy.
+The educational managers do not need to run many marketing campaigns because the real situation is supporting the government's orientation for the education.
 
 ### 3.2. The correlation between the number of exams participated and average score
 
