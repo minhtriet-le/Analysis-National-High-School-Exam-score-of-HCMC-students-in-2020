@@ -264,7 +264,7 @@ The educational managers do not need to run many marketing campaigns because the
 
 ### 3.2. The correlation between the number of exams participated and average score
 
-The students in HCMC want to know whether the average score decrease when the number of subject exam students participate in increase. If this hypothesis is true, they will focus on the limited number of necessary subjects. If it is false, they will participate in many exams.
+The students in HCMC want to know whether the average score decreases when the number of subject exam students participate in increases. If this hypothesis is true, they will focus on the limited number of necessary subjects. If it is false, they will participate in many exams.
 
 The question: **Does the average score decrease when the number of subject exam students participate in increase?**
 
